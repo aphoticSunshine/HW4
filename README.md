@@ -9,6 +9,6 @@ The biggest and most important thing is that all inputs must be spaced out.
 
 Ie: if ( x == 2 ) { y + 2 ; } or while ( test != x ) { haha = 5 ; jokes = 6 ; }
 
-The code will not work if you do not space them out, as frustrating as it is. 
+Tokens can and should remain together, but otherwise the code will not work if you do not space them out, as frustrating as it is. 
 
-The flip side is that you can include as many spaces or newlines in between as you'd like.
+The flip side is that you can include as many spaces or newlines in between each token as you'd like.
